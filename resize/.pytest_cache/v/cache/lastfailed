@@ -1,0 +1,3 @@
+{
+  "test_image_processor.py::TestProcessor::test_resize_image": true
+}
